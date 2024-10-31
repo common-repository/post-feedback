@@ -1,0 +1,42 @@
+.pf-chart-legend {
+  top: 10px;
+  padding-bottom: 20px;
+  position: relative;
+}
+
+.pf-legend {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.pf-colorbox {
+  width: 10px;
+  height: 7px;
+  margin-right: 5px;
+  display: inline-block;
+}
+
+.pf-legend-text {
+  display: inline-block;
+  font-size: 0.9em;
+}
+
+.pf-select {
+  background: none;
+  border: 1px solid #ccc;
+  padding: 10px 5px;
+  margin-right: 1em;
+  font-size: 1em;
+}
+
+.pf-button {
+  background: #0074A2;
+  color: #fff;
+  padding: 11px 11px;
+  cursor: pointer;
+  font-size: 1em;
+}
+
+.wp-picker-container {
+  vertical-align: middle;
+}
